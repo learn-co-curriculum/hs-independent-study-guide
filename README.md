@@ -11,14 +11,14 @@ There will always be labs on Learn.co that you can work on, but here are a coupl
 + Set up an online portfolio to show off your work. Here are some examples:
   * [Marisa Poster](http://marisaposter.com/)
   * [Catherine Codes](http://catherinecodes.com/)
-  * [Mitch Boyer(]http://mitchboyer.com/)
+  * [Mitch Boyer](http://mitchboyer.com/)
   * [Randall Reed](http://randallreedjr.com/portfolio/)
 
 ## Blogging
 
 Start blogging about your experience. Writing about what you are learning here is a great way to solidify the concepts, share your experience and build your online presence. Flatiron student's blog posts get shared all the time through newsletters and other media sites. A couple examples: 
 
-  * [Christine Echcho](http://christinehcho.tumblr.com/)
+  * [Christine Ehcho](http://christinehcho.tumblr.com/)
   * [Fr4ns C0mput3r](http://fr4nsc0mput3r.tumblr.com/)
 
 Whatever you choose, the important thing is that you're learning, working, and having fun!

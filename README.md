@@ -24,3 +24,5 @@ Start blogging about your experience. Writing about what you are learning here i
   * [Fr4ns C0mput3r](http://fr4nsc0mput3r.tumblr.com/)
 
 Whatever you choose, the important thing is that you're learning, working, and having fun!
+
+<a href='https://learn.co/lessons/hs-independent-study-guide' data-visibility='hidden'>View this lesson on Learn.co</a>

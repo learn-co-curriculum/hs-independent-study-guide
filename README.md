@@ -25,4 +25,4 @@ Start blogging about your experience. Writing about what you are learning here i
 
 Whatever you choose, the important thing is that you're learning, working, and having fun!
 
-<a href='https://learn.co/lessons/hs-independent-study-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-independent-study-guide' title='Independent Study Guide'>Independent Study Guide</a> on Learn.co and start learning to code for free.</p>
